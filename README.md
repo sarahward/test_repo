@@ -1,2 +1,2 @@
 # test_repo
-https://riffomonas.org/code_club/2021-06-28-setting-up-project
+https://www.youtube.com/watch?v=QLFc9gw_Hfs&ab_channel=LisaLendway-Statistics%26DataScience
